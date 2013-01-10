@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="yoba">images/yoba.png</file>
+    </qresource>
+</RCC>
