@@ -1,5 +1,5 @@
 ﻿.idea/
-*.pro.user
+*.user
 # In repository we don't need to have:
 # Compiled object files
 *.o
@@ -14,7 +14,7 @@ ui_*.h
 # Debug and Release directories (created under Windows, not Linux)
 Debug/
 Release/
-
+build/
 # .log files (usually created by QtTest - thanks to VestniK)
 *.log
 
@@ -39,3 +39,6 @@ desktop.ini
 .idea
 .idea/*
 /*.bat
+
+# kde dolphin files
+.directory

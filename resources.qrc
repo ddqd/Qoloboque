@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file alias="yoba">images/yoba.png</file>
+        <file alias="qoloboque">qml/Qoloboque/main.qml</file>
     </qresource>
 </RCC>

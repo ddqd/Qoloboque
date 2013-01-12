@@ -21,5 +21,9 @@ SOURCES += main.cpp
 include(qmlapplicationviewer/qmlapplicationviewer.pri)
 qtcAddDeployment()
 
+
 RESOURCES += \
-    images.qrc
+    resources.qrc
+
+RC_FILE = Qoloboque.rc
+
